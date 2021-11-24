@@ -1,5 +1,13 @@
 # Ensinando a usar Arduino-Led com PHP
 
+## Integrantes do Projeto
+* `Gabriel Godoi Dos Santos`
+* `Geovana Raquel Mariano`
+* `Iris Maria De Oliveira Bernardo`
+
+## Orientador
+* `Professor José Guilherme Picolo`
+
 ## Componentes que você precisará
   
   * `Protoboard Comum`
